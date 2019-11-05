@@ -1,0 +1,53 @@
+Instrucciones
+
+- Social icons
+
+* Whatsapp no, telefono mejor
+
+1 - Index
+
+Fotos más grandes, cuadros luz collage y flecha hacia abajo
+
+-+ Instalador
+
++ Imagen cuadros - Compuesta
++ Pared piedra luces leds
+
+2 - Servicios
+
+ + Instalaciones eléctricas en general / fa-bolt
+ + Estudios de iluminación de LED / fa-lightbulb-o
+ + Instalaciones de antenas terrestres y satélites / antena, ondas..
+ + Reparación de averias / 
+ + Instalaciones de porteros y videoporteros / portero, camara...
+
+ Sin descripcion
+ Click a seccion servicios
+ Cambio de color azul claro a oscuro hover
+
+ 3 - ¿Quiénes somos?
+
+ - Somos una empresa fundada en el 2001, en el sector de las instalaciones eléctricas y construcción con una amplia experiencia. Con importantes instalaciones realizadas en estos años. 
+
+ Como por ejemplo 
+ 	* Moma (2003), 
+ 	* Farmacias en Córdoba y alrededores, Sevilla, Vera-Almeria (2004 - 2007), San Fernando(2012)
+	* McDonalds Guadalquivir y Andujar (Reforma) (2009),
+ 	* Taberna Rafalete (2011), Rafalete Eroski (2014), 
+ 	* Jack Jones CC La Sierra (2018), 
+	* Instalaciones eléctricas en hosteleria
+	* Instalaciones viviendas pisos y casas unifamiliares, chalets 
+	 - Mayoritariamente Córdoba y alrededores, resto de Andalucia (Fuengirola, Tarifa...)
+	* locales comerciales 
+	* naves industriales...
+
+- Principal
+FOTO carousel
+
+- Servicios
+Cambiar fotos McDonalds Jack Jones
+Moma - Actual Hangar
+Cambiar foto naves industriales
+
+
+

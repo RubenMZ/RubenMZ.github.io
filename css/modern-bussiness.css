@@ -1,0 +1,84 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+h1, h2, h3, h4 {
+  color: #29166F !important;
+}
+
+hr{
+  background-color: #29166f;
+  border: 1px solid #29166f;
+}
+
+.navbar{
+  box-shadow: 1px 1px 20px rgba(41, 22, 111, 0.2);
+}
+
+.carousel-item {
+  height: 50vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+
+.service-icon {
+  background-color: #1DA3CD;
+  color: #fff;
+  height: 7rem;
+  width: 7rem;
+  display: block;
+  line-height: 7.5rem;
+  font-size: 2.25rem;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.text-faded {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.content-section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.content-section-heading h2 {
+  font-size: 3rem;
+}
+
+.content-section-heading h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.bg-dark, .bg-primary{
+  background-color: #1da3cd !important;
+}
+
+.nav-link.active, .color-dark{
+  color: #29166F !important;
+}
+
+.nav-link, .color-light{
+  color: #1da3cd !important;
+}

@@ -8,12 +8,6 @@ body {
   padding-top: 54px;
 }
 
-@media (min-width: 992px) {
-  body {
-    padding-top: 56px;
-  }
-}
-
 p{
   text-align:justify;
 }
@@ -35,6 +29,10 @@ button:focus, a:focus{
 
 .navbar{
   box-shadow: 1px 1px 20px rgba(41, 22, 111, 0.2);
+}
+
+.navbar-brand img {
+  height: 60px;
 }
 
 .carousel-item {
@@ -215,6 +213,19 @@ button:focus, a:focus{
   }
 }
 
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+@media (max-width: 992px) {
+  .navbar-brand img {
+    height: 50px;
+  }
+}
+
+
 @media (min-width: 768px) {
   .social-icons {
     margin: 0;
@@ -246,5 +257,10 @@ button:focus, a:focus{
   .social-icons ul > li > a:hover {
     background-color: #29166F;
   }
+}
 
+@media (max-width: 768px) {
+  .navbar-brand img {
+    height: 45px;
+  }
 }

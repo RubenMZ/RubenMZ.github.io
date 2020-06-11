@@ -39,5 +39,28 @@ $(function() {
         }
       });
 
+      const carouselElements = new Array(15).fill();
+
+      const carouselIndicators = carouselElements.map((_item, index) => {
+        const active = index === 0 ? 'active' : '';
+        return `<li data-target="#carouselExampleIndicators" data-slide-to="${index}" class="${active}"></li>`;
+      });
+
+      const indicators = document.getElementById("carousel-indicators");
+      indicators.innerHTML = carouselIndicators.join(" ");
+
+      const carouselImages = carouselElements.map((_item, index) => {
+        const imageIndex = index + 1;
+        const active = index === 0 ? 'active' : '';
+        return `
+        <div class="carousel-item ${active}" style="background-image: url('img/carousel/carousel${imageIndex}.jpg')">
+          <div class="carousel-caption d-none d-md-block"></div>
+        </div>
+        `
+      });
+
+      const carousel = document.getElementById("carousel-index");
+      carousel.innerHTML = carouselImages.join(" ");
+
       
 });

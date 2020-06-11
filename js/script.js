@@ -53,7 +53,7 @@ $(function() {
         const imageIndex = index + 1;
         const active = index === 0 ? 'active' : '';
         return `
-        <div class="carousel-item ${active}" style="background-image: url('img/carousel/carousel${imageIndex}.jpg')">
+        <div class="carousel-item ${active}" style="background-image: url('img/carousel/images/carousel${imageIndex}.jpg')">
           <div class="carousel-caption d-none d-md-block"></div>
         </div>
         `
